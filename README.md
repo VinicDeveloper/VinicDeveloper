@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/VinicDeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HIATUS777&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIATUS777&layout=compact&langs_count=6&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinicDeveloper&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicDeveloper&layout=compact&langs_count=6&theme=onedark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Vinic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
