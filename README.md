@@ -8,9 +8,10 @@
 </div>
   <div style="display: inline_block"><br>
 
-  <img align="left" alt="Vinic-pic" height="150" style="border-radius:10pt;" src="https://i.pinimg.com/564x/be/5d/0b/be5d0b7e7ffe788166148b3070f73e44.jpg">
+  <img align="left" alt="Vinic-pic" height="150" style="border-radius:10pt;" src="https://i.pinimg.com/736x/ce/63/a2/ce63a2b26ae46aa792e55d5671f89c50.jpg">
   <img align="left" alt="Vinic-pic" height="150" style="border-radius:10pt;" src="https://i.pinimg.com/564x/f8/d0/26/f8d026067f540631d85dfa20853920b9.jpg">
-  <img align="left" alt="Vinic-pic" height="150" style="border-radius:10pt;" src="https://i.pinimg.com/736x/cc/c8/96/ccc896b7a65a8c9991d8a8746e0feb9a.jpg">
+  <img align="left" alt="Vinic-pic" height="150" style="border-radius:10pt;" src="https://i.pinimg.com/736x/6e/26/2b/6e262b5ce36e25248a9604e0f2918331.jpg">
+  <img align="left" alt="Vinic-pic" height="150" style="border-radius:10pt;" src="https://i.pinimg.com/736x/96/44/83/96448398a1296fc8485ba85647c7db0b.jpg">
   </div>
  <!-- <img align="center" alt="Vinic-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
  <img align="center" alt="Vinic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
